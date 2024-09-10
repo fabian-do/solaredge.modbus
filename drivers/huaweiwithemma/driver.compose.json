@@ -86,7 +86,7 @@
     "meter_power.grid_import": {
       "title": {
         "en": "Grid Import Yield",
-        "de": "Netzimport Heute"
+        "de": "Netzbezug Heute"
       },
       "units": {
         "en": "kWh"
@@ -97,7 +97,7 @@
     "meter_power.grid_export": {
       "title": {
         "en": "Grid Export Yield",
-        "de": "Netzexport Heute"
+        "de": "Netzeinspeisung Heute"
       },
       "units": {
         "en": "kWh"
